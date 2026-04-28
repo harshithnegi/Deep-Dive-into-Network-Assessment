@@ -45,7 +45,6 @@ This course helped me understand how to analyze networks, discover vulnerabiliti
 02-Network-Assessment-Methodology-and-Tools/
 03-Hands-on-with-Network-Assessment/
 04-Advanced-Network-Security-Techniques/
-Resources/
 ```
 
 Each module contains structured notes and practical insights from the course.
